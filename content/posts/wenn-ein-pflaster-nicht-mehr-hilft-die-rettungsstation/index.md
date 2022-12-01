@@ -6,8 +6,6 @@ pinned = false
 +++
 ![]()
 
-
-
 #  
 
 {{<lead>}}
@@ -34,13 +32,13 @@ Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Eins
 
 ## Ausbildung   
 
-![Abbildung 3 Das Innere eines Einsatzfahrzeugs. Foto: Justin Tran](bild-inneres.jpg)
+![Abbildung 2 Das Innere eines Einsatzfahrzeugs. Foto: Justin Tran](bild-inneres.jpg)
 
 Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF beim Rettungsdienst Thun tätig. Ursprünglich lernte sie Fachfrau Gesundheit (FaGe). Bereits dort kam sie mit der Medizin in Berührung, die sie schon immer fasziniert hatte. Nach ihrer Lehre als FaGe war sie als Fitnesstrainerin tätig. In dieser Tätigkeit fehlte ihr allerdings der medizinische Aspekt, weshalb sie sich entschloss, die Ausbildung als Rettungssanitäterin zu beginnen. Jährlich schliessen ungefähr 400 Personen die Ausbildung ab. Diese dauert normalerweise drei Jahre. Man kann sie jedoch auch in 2 Jahren absolvieren, wenn man zuvor die entsprechende Ausbildung als Pflegefachfrau/Pflegefachmann gemacht hat. In der Ausbildung lernt man viel über die Bergungstechniken, d.h. wie man Patienten in den unmöglichsten Lagen richtig versorgen und abtransportieren kann. Ebenfalls wichtige Bestandteile der Ausbildung sind die medizinischen Grundlagen. Man lernt verschiedenste Bereiche der Medizin kennen. Vor allem lernt man aber, wie man bei einem Einsatz handeln soll und wie man das erlangte Wissen am besten einsetzt. Denn richtiges Handeln entscheidet möglicherweise über Leben oder Tod. Wegen den grossen Belastungen, die die Tätigkeit als Rettungssanitäter*in mitbringt, wollen wir von Anja zudem wissen, ob es auch Leute gibt, die die Ausbildung abbrechen, weil sie merken, dass die Belastung zu gross ist. „Das gibt es immer wieder,“ sagt sie. „Doch haben wir beim Rettungsdienst den Vorteil, dass man bei uns - im Gegensatz zur Polizei - auch mal ein oder zwei Schnuppertage machen kann, in denen man ein ziemlich genaues Bild davon erhält, was einen erwartet.“ Aber je nach Einsätzen, die die Leute an den Schnuppertagen miterleben, kann es dennoch sein, dass man ein falsches Bild erhält, denn es gibt auch Tage, an denen sehr wenig oder nichts Gravierendes passiert.   
 
 ## Welche Geräte sind bei einem medizinischen Einsatz dabei?   
 
-![Abbildung 2 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-einsatzrucksack.jpg)
+![Abbildung 3 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-einsatzrucksack.jpg)
 
 ### “Bei einer Reanimation nehmen wir immer den Lucas mit.”  
 
@@ -48,7 +46,7 @@ Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF
 
 Wenn ein Einsatz bei der Zentrale eingegangen ist, läuft das für den Einsatz zugewiesene Team die Treppe herunter und rennt schnellstmöglich hinüber zur Garage, in der die Einsatzfahrzeuge stehen. Eben dies tun wir auch. Wir rennen die Treppe hinunter und laufen über den Parkplatz zur Garage. Dort will uns Anja Hofer einen einsatzfertigen Rettungswagen zeigen. Was auf den ersten Blick auffällt, ist, dass alles blitzsauber und sehr gut aufgeräumt ist. Ausserdem liegt nichts herum und alles ist fest angemacht, da bei einem rasanten Einsatz nichts herumfliegen darf. Das wäre ein zu grosses Verletzungsrisiko, und man hat auch keine Zeit, bei einem Einsatz noch Geräte zusammenzusuchen. Anja sagt, dass bei fast jedem Einsatz der Monitor dabei sei. Mit diesem könne man alles Mögliche machen, vom Überwachen des Patienten bis zur Defibrillation. Auch der Einsatzrucksack ist fast immer dabei. Er ist vor allem für die Erstversorgung ausgestattet. Es sind Medikamente, Infusionen und Sauerstoff vorhanden, also alles, was man für die Erstversorgung der Patienten braucht, bevor sie in den Wagen transportiert werden. Ein sehr markantes Gerät, das im Rettungswagen vorhanden ist, ist der sogenannte Lucas. Es sieht aus wie ein Bogen, aus dem so etwas wie ein Saugnapf herauskommt. Anja sagt: „Bei einer Reanimation nehmen wir ihn immer mit. Der Lucas ist eine Maschine, die für uns drückt.” Das Drücken bei der Herzdruckmassage sei sehr anstrengend, und deshalb sei der Lucas eine optimale Unterstützung. Jedoch gibt es auch noch viele andere Geräte, die bei Bedarf zum Einsatz hinzugefügt werden. Wenn man zum Beispiel mit einer bewusstlosen Person mit Erbrochenem oder Essensresten in der Speiseröhre rechnet, nimmt man zusätzlich eine Absaugeinheit mit, um die Atemwege freizulegen. So kann der Patient mit ausreichend Sauerstoff versorgt werden. 
 
-![Abbildung 2 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-lucas-jetzt-bitte-wuk-aber.png)
+![Abbildung 4 Lucas, der bei der Herzdruckmassage unterstützt. Foto: Justin Tran  ](bild-lucas-jetzt-bitte-wuk-aber.png)
 
 ## Was sind die psychischen Belastungen und wie geht man damit um?   
 
