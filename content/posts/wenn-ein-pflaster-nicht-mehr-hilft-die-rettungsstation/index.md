@@ -8,7 +8,7 @@ pinned = false
 
 
 
-# Wenn ein Pflaster nicht mehr hilft –  die Rettungsstation  
+#  
 
 {{<lead>}}
 
