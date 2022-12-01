@@ -6,11 +6,7 @@ pinned = false
 +++
 ![]()
 
-{{<lead>}}
 
-Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   
-
-{{</lead>}}
 
 # Wenn ein Pflaster nicht mehr hilft –  die Rettungsstation  
 
@@ -29,8 +25,6 @@ An einem Donnerstagmorgen, Punkt 7 Uhr in der Früh machen wir uns vom Bahnhof S
 ![Abbildung 1 Die Einsatzfahrzeuge in der Fahrzeughalle, wo sie gewartet werden und einsatzbereit sind für den nächsten Notfall. Foto: Jan Zimmermann](bild-rettungswagen.jpg)
 
 Die ersten Formen eines Rettungsdienstes gab es unter Napoleon im 18. Jahrhundert. Da Napoleon viele Kriege führte, gab es entsprechend viele Verletzte. Um diese zu bergen und zu versorgen, gab es Soldaten, die bewusst dem Geschehen auf dem Schlachtfeld fernblieben. Diese Rettungssoldaten für Verwundete waren die ersten Rettungssanitäter. Heute ist der Rettungsdienst vor allem in den Bereichen Erste Hilfe, Notfallmedizin und Transport von Verunfallten tätig. Täglich werden in der Schweiz von den 96 Rettungsdiensten, die es hierzulande gibt, über 1200 Einsätze durchgeführt. Bei 70% dieser Einsätze handelt es sich um Notfalleinsätze. Dazu zählen Primäreinsätze von höchster Dringlichkeit (P1), bei der eine potentielle Lebensbedrohung vorliegt und Primäreinsätze mit zweitrangiger Dringlichkeit (P2), bei der die Situation des Patienten nicht lebensbedrohlich ist, aber sich noch kurzfristig ändern könnte.  Wenn man in der Schweiz den Rettungsdienst alarmieren will, kann man das sowohl über die europaweite Notfallnummer 112 wie auch über die direkte Nummer des Rettungsdienstes 144 tun. Die Aufgaben einer Rettungssanitäterin sind vielfältig. ,,Man weiss nie, was an diesem Tag passiert, wenn man am Morgen aufsteht und zur Arbeit geht,’’ meint Anja Hofer. Man kann einen Einsatz nicht wählen, und so wird man mit immer neuen Aufgaben konfrontiert und trifft auch immer auf neue Menschen und Problemstellungen. Wenn man beim Rettungsdienst arbeitet, muss man einen sehr flexiblen Zeitplan haben. Es kann immer sein, dass man kurz vor Dienstende noch einen Einsatz bekommt, den man fahren muss. „Wenn man dann einen Einsatz bekommt, der 2 Stunden geht, muss man halt noch 2 Stunden Überzeit machen“, sagt Anja Hofer. Es ist wichtig, dass das Umfeld Verständnis dafür aufbringt. Da es immer sein kann, dass man mit privaten Abmachungen in Konflikt kommt, weil ein Einsatz dazwischenkommt, braucht man auf jeden Fall Spontaneität und vor allem Flexibilität.   
-
-
 
 {{<box title="Ausklappbare Box">}}
 
@@ -55,8 +49,6 @@ Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF
 Wenn ein Einsatz bei der Zentrale eingegangen ist, läuft das für den Einsatz zugewiesene Team die Treppe herunter und rennt schnellstmöglich hinüber zur Garage, in der die Einsatzfahrzeuge stehen. Eben dies tun wir auch. Wir rennen die Treppe hinunter und laufen über den Parkplatz zur Garage. Dort will uns Anja Hofer einen einsatzfertigen Rettungswagen zeigen. Was auf den ersten Blick auffällt, ist, dass alles blitzsauber und sehr gut aufgeräumt ist. Ausserdem liegt nichts herum und alles ist fest angemacht, da bei einem rasanten Einsatz nichts herumfliegen darf. Das wäre ein zu grosses Verletzungsrisiko, und man hat auch keine Zeit, bei einem Einsatz noch Geräte zusammenzusuchen. Anja sagt, dass bei fast jedem Einsatz der Monitor dabei sei. Mit diesem könne man alles Mögliche machen, vom Überwachen des Patienten bis zur Defibrillation. Auch der Einsatzrucksack ist fast immer dabei. Er ist vor allem für die Erstversorgung ausgestattet. Es sind Medikamente, Infusionen und Sauerstoff vorhanden, also alles, was man für die Erstversorgung der Patienten braucht, bevor sie in den Wagen transportiert werden. Ein sehr markantes Gerät, das im Rettungswagen vorhanden ist, ist der sogenannte Lucas. Es sieht aus wie ein Bogen, aus dem so etwas wie ein Saugnapf herauskommt. Anja sagt: „Bei einer Reanimation nehmen wir ihn immer mit. Der Lucas ist eine Maschine, die für uns drückt.” Das Drücken bei der Herzdruckmassage sei sehr anstrengend, und deshalb sei der Lucas eine optimale Unterstützung. Jedoch gibt es auch noch viele andere Geräte, die bei Bedarf zum Einsatz hinzugefügt werden. Wenn man zum Beispiel mit einer bewusstlosen Person mit Erbrochenem oder Essensresten in der Speiseröhre rechnet, nimmt man zusätzlich eine Absaugeinheit mit, um die Atemwege freizulegen. So kann der Patient mit ausreichend Sauerstoff versorgt werden. 
 
 ![Abbildung 2 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-lucas-richtig.png)
-
-
 
 ## Was sind die psychischen Belastungen und wie geht man damit um?   
 
