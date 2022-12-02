@@ -33,13 +33,13 @@ Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Eins
 
 ## Ausbildung   
 
-![Abbildung 2 Das Innere eines Einsatzfahrzeugs. Foto: Justin Tran](bild-inneres.jpg)
+![Abbildung 2 Das Innere eines Einsatzfahrzeugs. Foto: Justin Tran](bild-inneres-ize.jpg)
 
 Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF beim Rettungsdienst Thun tätig. Ursprünglich lernte sie Fachfrau Gesundheit (FaGe). Bereits dort kam sie mit der Medizin in Berührung, die sie schon immer fasziniert hatte. Nach ihrer Lehre als FaGe war sie als Fitnesstrainerin tätig. In dieser Tätigkeit fehlte ihr allerdings der medizinische Aspekt, weshalb sie sich entschloss, die Ausbildung als Rettungssanitäterin zu beginnen. Jährlich schliessen ungefähr 400 Personen die Ausbildung ab. Diese dauert normalerweise drei Jahre. Man kann sie jedoch auch in 2 Jahren absolvieren, wenn man zuvor die entsprechende Ausbildung als Pflegefachfrau/Pflegefachmann gemacht hat. In der Ausbildung lernt man viel über die Bergungstechniken, d.h. wie man Patienten in den unmöglichsten Lagen richtig versorgen und abtransportieren kann. Ebenfalls wichtige Bestandteile der Ausbildung sind die medizinischen Grundlagen. Man lernt verschiedenste Bereiche der Medizin kennen. Vor allem lernt man aber, wie man bei einem Einsatz handeln soll und wie man das erlangte Wissen am besten einsetzt. Denn richtiges Handeln entscheidet möglicherweise über Leben oder Tod. Wegen den grossen Belastungen, die die Tätigkeit als Rettungssanitäter*in mitbringt, wollen wir von Anja zudem wissen, ob es auch Leute gibt, die die Ausbildung abbrechen, weil sie merken, dass die Belastung zu gross ist. „Das gibt es immer wieder,“ sagt sie. „Doch haben wir beim Rettungsdienst den Vorteil, dass man bei uns - im Gegensatz zur Polizei - auch mal ein oder zwei Schnuppertage machen kann, in denen man ein ziemlich genaues Bild davon erhält, was einen erwartet.“ Aber je nach Einsätzen, die die Leute an den Schnuppertagen miterleben, kann es dennoch sein, dass man ein falsches Bild erhält, denn es gibt auch Tage, an denen sehr wenig oder nichts Gravierendes passiert.   
 
 ## Welche Geräte sind bei einem medizinischen Einsatz dabei?   
 
-![Abbildung 3 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-einsatzrucksack.jpg)
+![Abbildung 3 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann  ](bild-einsatzrucksack-iz.jpg)
 
 ### “Bei einer Reanimation nehmen wir immer den Lucas mit.”  
 
