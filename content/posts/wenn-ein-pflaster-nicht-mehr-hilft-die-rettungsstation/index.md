@@ -12,9 +12,7 @@ image = "bild-rettungswagen.jpg"
 
 {{<lead>}}
 
-Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   
-
-Eine Reportage von Justin Tran und Jan Zimmermann.
+Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   *Eine Reportage von Justin Tran und Jan Zimmermann*.
 
 {{</lead>}}
 
