@@ -4,6 +4,7 @@ date = "2023-01-16"
 draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
+image = "a2336178-1f70-4847-8446-553614557f86.jpeg"
 +++
 ### **Autor:**
 
